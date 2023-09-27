@@ -1,1 +1,1 @@
-# responsive_grid2
+# Responsive Grid
